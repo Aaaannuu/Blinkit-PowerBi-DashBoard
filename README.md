@@ -13,27 +13,34 @@ To conduct a comprehensive analysis of Blinkit sales Performance, customer satis
 ## Business Requirement 
 ### Chart Requirement
 1. Total sales by fat content:
+   
                Objective: Analyze the impact of fat content on table sales.
                Additional KPI Metrics: Assess how other KPIs(Average Sales , Number of items, Average Rating) vary with fat content.
                Chart Type: Donut Chart.
-2. Total Sales by item Type:
+3. Total Sales by item Type:
+   
                Objective: identify the performance of different item types in terms of total sales.
                Additional KPI Metrics: Assess how other KPIs(Average Sales , Number of items, Average Rating) vary with fat content.
                Chart Type: Bar Chart.
-3. Fat content by outlet for total sales:
+5. Fat content by outlet for total sales:
+   
                Objective: Compare table sales across different outlets segmented by fat content.
                Additional KPI Metrics: Assess how other KPIs(Average Sales , Number of items, Average Rating) vary with fat content.
                Chart Type: Stacked column chart
-4. Total sales by outlet establishment:
+7. Total sales by outlet establishment:
+   
                Objective: Evaluate how the age or type of outlet establishment influences total sales.
                Chart Type: pie Chart.
-5. Sales by outlet size:
+9. Sales by outlet size:
+    
                Objective: Analyze the correlation between outlet size and total sales.
                Chart Type: Donut/pie Chart.
-6. Sales by outlet location:
+11. Sales by outlet location:
+    
                Objective: Assess the geographic distribution of sales across different locations.
                Chart Type: Funnel map.
-7. All metrics by outlet type:
+13. All metrics by outlet type:
+    
                Objective: Provide a comprehensive view of all key metric broken down by different outlet.
                Chart Type: Matrix card.
 
@@ -48,4 +55,7 @@ To conduct a comprehensive analysis of Blinkit sales Performance, customer satis
 - Across the loaction, low fat content is higher than regular fat across all key metrics.
 - Item types contain low fat have higher than regular across all key metrics.
 - Outlets with medium size account for 42.6% across all key performance metrics, outperforming both small and high-sized outlets in Average Sales , Number of items, Average Rating and Total sales.
+- Supermarket Type1 outlets lead in overall KPIs, outperforming other outlet types across all key metrics.
 
+## Conclusion
+The analysis highlights that low fat content items consistently outperform regular fat items across most key metrics, including sales, customer ratings, and item variety. Additionally, medium-sized outlets and Supermarket Type1 formats demonstrate superior performance, indicating key areas to focus on for strategic growth and optimization.
