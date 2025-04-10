@@ -50,11 +50,17 @@ To conduct a comprehensive analysis of Blinkit sales Performance, customer satis
                Objective: Provide a comprehensive view of all key metric broken down by different outlet.
                Chart Type: Matrix card.
 
+## Dashboard_Power_BI
+<a href="https://github.com/Aaaannuu/Blinkit-PowerBi-DashBoard/blob/main/BLINKIT.pdf"> Dashboard
+
 ## Process
 - Data Preparation (ETL): Cleanse and transform the Blinkit dataset to ensure accuracy and consistency for analysis.
 - Visualization Development: Create interactive Power BI visuals to analyze fat content based on Average Sales , Number of items, Average Rating and Total sales.
 - Insight Generation: Analyze the visualizations to identify key drivers of sales performance.
 - Strategic Recommendation: Focus on expanding high-performing outlet types and fat content categories that consistently drive higher total sales, customer ratings, and item variety across locations.
+
+## Dashboard
+![](https://github.com/Aaaannuu/Blinkit-PowerBi-DashBoard/blob/main/BLINKIT.pdf)
 
 ## Project Insights
 - Items with low fat content outperform regular fat items across total sales, number of item and average rating, however the average sales of regular is slighlty higher than the low fat.
