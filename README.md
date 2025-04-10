@@ -60,7 +60,7 @@ To conduct a comprehensive analysis of Blinkit sales Performance, customer satis
 - Strategic Recommendation: Focus on expanding high-performing outlet types and fat content categories that consistently drive higher total sales, customer ratings, and item variety across locations.
 
 ## Dashboard
-![blinkit.png](https://github.com/Aaaannuu/Blinkit-PowerBi-DashBoard/blob/main/BLINKIT.png) 
+![blinkit.png](https://github.com/Aaaannuu/Blinkit-PowerBi-DashBoard/blob/main/blinkit.png) 
 
 ## Project Insights
 - Items with low fat content outperform regular fat items across total sales, number of item and average rating, however the average sales of regular is slighlty higher than the low fat.
